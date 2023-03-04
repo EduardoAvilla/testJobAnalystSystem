@@ -7,3 +7,15 @@ na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
 
 
 Resposta= Analisando a o percurso e a velocidade que o caminhão faz, ele está mai próximo a Ribeirão Preto.
+
+t = d / v = 100 km / 110 km/h = 0,909 horas
+
+Para o caminhão, considerando que ele leva 5 minutos extras em cada pedágio, temos:
+
+t = d / v + t_pedágio = 100 km / 80 km/h + 0,0833 horas * 2 = 1,25 horas
+
+Então quando os veículos se cruzarem pela rodovia, o carro terá percorrido 
+100 km * 0,909 horas = 90,9 km e o 
+caminhão terá percorrido 100 km * 1,25 horas = 125 km.
+
+Considerando a quantidade de km que o carro terá que percorrer ao se cruzarem, o caminhão está mais perto de Ribeirão Preto.
